@@ -1,0 +1,23 @@
+{
+  "name": "deltekSkillTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitesh-sharma-31/deltekSkillTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitesh-sharma-31/deltekSkillTest/issues"
+  },
+  "homepage": "https://github.com/nitesh-sharma-31/deltekSkillTest#readme",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
